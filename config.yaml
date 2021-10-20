@@ -10,22 +10,22 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Roberto
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London, ST NW1 6UK
+        country: United Kingdom
+        street: Regent's Park 191
+        title:  London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: rkeaney.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (123) 1234-4657 x1234
         title: Phone
   custom_css: []
   custom_js: []
@@ -60,12 +60,12 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    #button1:
+    #  - name: Get Started
+      #  url: blogs
+    #button2:
+     # - name: Log In
+      #  url: '#'
     links:
       - name: Home
         url: '#'
