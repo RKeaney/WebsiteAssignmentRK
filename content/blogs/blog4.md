@@ -8,11 +8,12 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-#image: pic07.jpg
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+image: pic07.jpeg
+#<video width="320" height="240" controls>
+#<source src="movie.mp4" type="video/mp4">
+
 </video>
 keywords: ""
-slug: aliquam
+slug: aliquam 
 title: Aliquam
 ---
