@@ -88,10 +88,10 @@ params:
         subtitle: My most recently updated (10/2021)
         title: My CV
         url: blogs/CV
-     # - image: pic03.jpg
-     #   subtitle: Lorem Etiam Nullam
-     #   title: Magna
-      #  url: blogs/magna
+      - image: pic0101.jpg
+        subtitle: Lorem Etiam Nullam
+         title: Magna
+         url: blogs/magna
       #- image: pic04.jpg
        # subtitle: Nisl Sed Aliquam
        # title: Ipsum
