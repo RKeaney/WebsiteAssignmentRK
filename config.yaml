@@ -69,9 +69,9 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
+      - name: CV
+        url: blogs/CV
+      - name: Travels
         url: blogs/ipsum
       - name: Elements
         url: elements.html
@@ -86,9 +86,9 @@ params:
         title: Aliquam
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: My most recently updated (10/2021)
+        title: My CV
+        url: blogs/CV
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
