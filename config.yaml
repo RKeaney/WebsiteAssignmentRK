@@ -108,6 +108,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "I hope you are enjoying my website, if you would like to see more detailed information, I recommend you to select one of the pages."
+   # subtitle: "I hope you are enjoying my website, if you would like to see more detailed information, I recommend you to select one of the pages."
     title: Lets get going!
     url: blogs
