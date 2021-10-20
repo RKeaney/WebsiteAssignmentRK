@@ -9,7 +9,7 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
 #image: pic07.jpg
-#<video width="320" height="240" controls>
+<video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">
 </video>
 keywords: ""
