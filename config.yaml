@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Work hard play hard
+        title: LBS Experience
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: My most recently updated (10/2021)
