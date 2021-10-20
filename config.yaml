@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic02.jpg
+      - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
@@ -96,7 +96,7 @@ params:
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-       url: blogs/ipsum
+        url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
