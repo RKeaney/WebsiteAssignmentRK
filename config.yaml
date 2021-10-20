@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      My mom always said life was like a box of chocolates. You never know what you're gonna get.
     title: Hi, my name is Roberto, and welcome to my platform!
   blog: {}
   contact:
@@ -71,10 +70,10 @@ params:
         url: '#'
       - name: CV
         url: blogs/CV
-      - name: Travels
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+   #  - name: Travels
+      # url: blogs/ipsum
+    # - name: Elements
+      # url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
