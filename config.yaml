@@ -68,11 +68,11 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: CV
+      - name: My CV
         url: blogs/CV
-   #  - name: Travels
-      # url: blogs/ipsum
-    # - name: Elements
+      - name: LBS Experience
+        url: blogs/aliquam
+      - name: Elements
       # url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
@@ -85,7 +85,7 @@ params:
         title: LBS Experience
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: My most recently updated (10/2021)
+        subtitle: My most recently updated
         title: My CV
         url: blogs/CV
       - image: pic0101.jpg
