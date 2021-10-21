@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       My mom always said life was like a box of chocolates. You never know what you're gonna get.
-    title: Hi, my name is Roberto, and welcome to my platform!
+    title: Hi, my name is Roberto and welcome to my platform!
   blog: {}
   contact:
     address:
@@ -73,10 +73,10 @@ params:
       - name: LBS Experience
         url: blogs/aliquam
       - name: Coding
-        url: blogs/magda
+        url: blogs/magna
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: By Roberto Keaney
+    title: HOME
   tiles:
     enable: yes
     showcase:
