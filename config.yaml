@@ -104,9 +104,9 @@ params:
        # subtitle: Feugiat Amet Tempus
         #title: Etiam
         #url: blogs/Roberto
-  two:
-    buttonText: Next
-    enable: yes
-    subtitle: "I hope you are enjoying my website, if you would like to see more detailed information, I recommend you to select one of the pages."
-    title: Lets get going!
-    url: blogs
+  #two:
+   # buttonText: Next
+    #enable: yes
+    #subtitle: "I hope you are enjoying my website, if you would like to see more detailed information, I recommend you to select one of the pages."
+    #title: Lets get going!
+    #url: blogs
