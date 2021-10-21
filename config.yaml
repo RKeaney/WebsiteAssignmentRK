@@ -90,8 +90,8 @@ params:
         url: blogs/CV
       - image: pic0101.jpg
         subtitle: Lorem Etiam Nullam
-         title: Magna
-         url: blogs/magna
+        title: Magna
+        url: blogs/magna
       #- image: pic04.jpg
        # subtitle: Nisl Sed Aliquam
        # title: Ipsum
