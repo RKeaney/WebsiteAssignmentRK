@@ -72,7 +72,7 @@ params:
         url: blogs/CV
       - name: LBS Experience
         url: blogs/aliquam
-      - name: Elements
+      - name: Coding
         url: blogs/magda
     menu: Menu
     subtitle: By HTML5 Up
