@@ -17,8 +17,8 @@ params:
         country: United Kingdom
         street: Regent's Park 191
         title:  London Business School
-   #buttonClear: Clear
-   #buttonSend: Send message
+    buttonClear: Clear
+    buttonSend: Send message
     email:
       - email: rkeaney.mfa2022@london.edu
         title: Email
@@ -37,7 +37,7 @@ params:
     copyright: Roberto Keaney
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
+      - alt: Click here to find this genious
         text: 'RK Style: '
         url: https://www.linkedin.com/in/robertojohnkeaney/
     social:
