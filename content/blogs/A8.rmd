@@ -7,7 +7,7 @@ description: ""
 draft: false
 #image: pic11.jpg
 keywords: ""
-slug: magna 
+slug: magna
 title: Coding
 
 ---

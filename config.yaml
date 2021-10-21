@@ -30,8 +30,8 @@ params:
   custom_js: []
   description: Your description
   error404:
-    heading: Page couldn't be found
-    text: Please visit [this page](/)
+    heading: Ooooops
+    text: I did it again...
   favicon: favicon.ico
   footer:
     copyright: Roberto Keaney
@@ -89,7 +89,7 @@ params:
         title: My CV
         url: blogs/CV
       - image: pic0101.jpg
-        subtitle: Group Assignment
+        subtitle: Coding Group Assignment
         title: Coding
         url: blogs/magna
       #- image: pic04.jpg
